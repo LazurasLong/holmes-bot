@@ -5,9 +5,9 @@ This project implements a minimal Recurrent Neural Network (LSTM) in Tensorflow.
 The checkpoints trained on a GTX 1080 for 100 epochs can be found [here](). The loss in the end was ___
 
 Here is something it generated after training for 100 epochs:
->
->
->
+>yo
+>yo
+>yo
 
 ## Requirements
 
