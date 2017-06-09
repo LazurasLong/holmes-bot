@@ -13,11 +13,9 @@ yo
 
 ## Requirements
 
-Python 3.6
-
-Tensorflow 1.0 (GPU version recommended for training)
-
-Numpy, Pickle
+* Python 3.6
+* Tensorflow 1.0 (GPU version recommended for training)
+* Numpy, Pickle
 
 ## Usage
 
