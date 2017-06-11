@@ -4,10 +4,10 @@ import tensorflow as tf
 class CharRNN:
 
     # Hyperparameters
-    no_seqs = 256
+    no_seqs = 256  # Try 128
     seq_len = 256
     no_hidden = 512
-    no_layers = 2
+    no_layers = 2  # Try 3
     keep_prob = 0.5
     learning_rate = 0.0005
     grad_clip = 5
